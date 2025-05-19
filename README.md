@@ -119,4 +119,4 @@ transaction_analyzer/
 
 ## Автор
 
-Егор Зыбин: Github[https://github.com/EgorZybin] Telegram[https:/t.me/raizzep]
+Егор Зыбин: Github[https://github.com/EgorZybin] Telegram[https://t.me/raizzep]
