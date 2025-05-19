@@ -1,0 +1,26 @@
+[
+    {
+      "id": "tx1",
+      "user_id": 1,
+      "amount": -450.75,
+      "currency": "RUB",
+      "timestamp": "2024-11-01T12:30:00",
+      "description": "KFC lunch"
+    },
+    {
+      "id": "tx2",
+      "user_id": 1,
+      "amount": -120.00,
+      "currency": "RUB",
+      "timestamp": "2024-11-01T18:45:00",
+      "description": "bus ticket"
+    },
+    {
+      "id": "tx3",
+      "user_id": 1,
+      "amount": -600.00,
+      "currency": "RUB",
+      "timestamp": "2024-11-01T19:00:00",
+      "description": "Netflix monthly"
+    }
+  ]
